@@ -1,32 +1,52 @@
 # GoMini App
 
-Aplikasi ini dibuat untuk memenuhi tugas project uts  pada mata kuliah Pemrograman Mobile 2 
-
+GoMini adalah aplikasi layanan terpadu yang dirancang khusus untuk perempuan, dengan fokus pada keamanan, kenyamanan, dan kebutuhan harian wanita. Semua driver, kurir, beautician, cleaner, hingga pet-groomer di aplikasi ini merupakan perempuan, sehingga pengguna merasa lebih aman saat menggunakan layanan, terutama ketika harus menggunakan jasa home-service atau transportasi.
 ---
 
 
 ## 📱 Tampilan Aplikasi
 
 <p align="center">
-  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.59_1b14c68a.jpg" width="45%" />
-  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.58_c8936fc2.jpg" width="45%" />
-  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.58_67638547.jpg" width="45%" />
-  <img src="https://github.com/demasnrzmn/game_app_uts/blob/main/assets/images/WhatsApp%20Image%202025-11-20%20at%2009.59.58_4007e2c8.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/splashscreen.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/home1.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/home2.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/home3.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/home4.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/Navigation%20Drawer%20atau%20Side%20Menu.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/miniride.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/minicar.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/minisend.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/minifood.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/minibeauty.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/miniclean.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/minishop.jpg" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/minipet.jpg" width="45%" />
   
 
 </p>
 
 ---
 
+## Pubspec.yaml
+
+<p align="center">
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/Cuplikan%20layar%202025-11-23%20122619.png" width="45%" />
+  <img src="https://github.com/nenimulyani/GoMini_App/blob/main/assets/image/Cuplikan%20layar%202025-11-23%20122632.png" width="45%" />
+  
+</p>
+
+---
+
+
 ## 📄  file laporan Aplikasi
 
-📁 [PDF Laporan](https://drive.google.com/file/d/12cm-KDA2PYtYkVyS4atAZDlc93RhEY49/view?usp=drivesdk) 
+📁 [PDF Laporan](https://drive.google.com/file/d/1Ri9hsFHR1XakizWRFCXELa8C8xe_G7Dx/view?usp=drive_link) 
 
 ---
 
 ## 🎥 vidio demo  Aplikasi
 
-🌐 [Video dokumentasi](https://drive.google.com/file/d/1Cp2RsejiAHowUYACXErHEi37jScJMM65/view?usp=sharing)
+🌐 [Video dokumentasi](https://drive.google.com/file/d/18wr_OaIepiI6wUafyUOQVcjufXZ-45W_/view?usp=sharing)
 
 
 ---

@@ -1,5 +1,5 @@
-# GoMini App
-
+# 🛵 GoMini App
+-
 GoMini adalah aplikasi layanan terpadu yang dirancang khusus untuk perempuan, dengan fokus pada keamanan, kenyamanan, dan kebutuhan harian wanita. Semua driver, kurir, beautician, cleaner, hingga pet-groomer di aplikasi ini merupakan perempuan, sehingga pengguna merasa lebih aman saat menggunakan layanan, terutama ketika harus menggunakan jasa home-service atau transportasi.
 ---
 

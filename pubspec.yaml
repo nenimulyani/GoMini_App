@@ -1,0 +1,65 @@
+name: gomini
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets :
+    - assets/image/logo.png
+    - assets/image/driver1.jpg
+    - assets/image/driver2.jpg
+    - assets/image/driver3.jpg
+    - assets/image/driver4.jpg
+    - assets/image/profile.jpg
+    - assets/image/food_burger.png
+    - assets/image/food_bento.png
+    - assets/image/food_donut.png
+    - assets/image/food_ramen.jpg
+    - assets/image/food_salad.jpg
+    - assets/image/food_fries.jpg
+    - assets/image/food_teriyaki.jpg
+    - assets/image/food_macha.jpg
+    - assets/image/food_tiramisu.jpg
+    - assets/image/food_sushi.jpg
+    - assets/image/promo1.jpg
+    - assets/image/promo2.jpg
+    - assets/image/promo3.jpg
+    - assets/image/promo4.jpg
+    - assets/image/promo5.jpg
+    - assets/image/promo6.jpg
+    - assets/image/promo7.jpg
+    - assets/image/pet1.jpg
+    - assets/image/pet2.jpg
+    - assets/image/pet3.jpg
+    - assets/image/pet4.jpg
+    - assets/image/pet5.jpg
+    - assets/image/clean.jpg
+    - assets/image/shop1.jpg
+    - assets/image/shop2.jpg
+    - assets/image/shop3.jpg
+    - assets/image/shop4.jpg
+    - assets/image/shop5.jpg
+    - assets/image/beauty1.jpg
+    - assets/image/beauty2.jpg
+    - assets/image/beauty3.jpg
+    - assets/image/beauty4.jpg
+    - assets/image/beauty5.jpg
+    - assets/image/iklan1.jpg
+    - assets/image/iklan2.jpg
+    - assets/image/iklan3.jpg
+    - assets/image/iklan4.jpg
+    - assets/image/iklan5.jpg
+    - assets/image/iklan6.jpg
